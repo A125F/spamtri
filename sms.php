@@ -1,5 +1,5 @@
 <?php
-system("clear")
+system("clear");
 system("figlet Spam Tri");
 $banner = "\e[1;97m========================================\nAUTHOR:\e[1;92mFAHMIAPZ\n\e[1;97mYOUTUBE:\e[1;92mAPMZ CHANNEL\n\e[90mctrl+z Untuk Stop!!\n\e[1;97m========================================\n";
 function sms($target) {
